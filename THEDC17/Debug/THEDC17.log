@@ -1,0 +1,47 @@
+﻿  mainwindow.cpp
+mainwindow.cpp(1779): error C2039: “communicatePitfallMatrix”: 不是“Communication”的成员
+  c:\users\lrg14\desktop\thuedc17-master\thedc17\mainwindow.h(30): note: 参见“Communication”的声明
+mainwindow.cpp(1781): error C2039: “communicatePitfallMatrix”: 不是“Communication”的成员
+  c:\users\lrg14\desktop\thuedc17-master\thedc17\mainwindow.h(30): note: 参见“Communication”的声明
+mainwindow.cpp(1782): error C2039: “communicatePitfallMatrix”: 不是“Communication”的成员
+  c:\users\lrg14\desktop\thuedc17-master\thedc17\mainwindow.h(30): note: 参见“Communication”的声明
+mainwindow.cpp(1784): error C2661: “QWidget::setGeometry”: 没有重载函数接受 3 个参数
+mainwindow.cpp(1788): error C2039: “communicatePitfallMatrix”: 不是“Communication”的成员
+  c:\users\lrg14\desktop\thuedc17-master\thedc17\mainwindow.h(30): note: 参见“Communication”的声明
+mainwindow.cpp(1790): error C2039: “communicatePitfallMatrix”: 不是“Communication”的成员
+  c:\users\lrg14\desktop\thuedc17-master\thedc17\mainwindow.h(30): note: 参见“Communication”的声明
+mainwindow.cpp(1791): error C2039: “communicatePitfallMatrix”: 不是“Communication”的成员
+  c:\users\lrg14\desktop\thuedc17-master\thedc17\mainwindow.h(30): note: 参见“Communication”的声明
+mainwindow.cpp(1793): error C2661: “QWidget::setGeometry”: 没有重载函数接受 3 个参数
+mainwindow.cpp(1797): error C2039: “communicatePitfallMatrix”: 不是“Communication”的成员
+  c:\users\lrg14\desktop\thuedc17-master\thedc17\mainwindow.h(30): note: 参见“Communication”的声明
+mainwindow.cpp(1799): error C2039: “communicatePitfallMatrix”: 不是“Communication”的成员
+  c:\users\lrg14\desktop\thuedc17-master\thedc17\mainwindow.h(30): note: 参见“Communication”的声明
+mainwindow.cpp(1800): error C2039: “communicatePitfallMatrix”: 不是“Communication”的成员
+  c:\users\lrg14\desktop\thuedc17-master\thedc17\mainwindow.h(30): note: 参见“Communication”的声明
+mainwindow.cpp(1802): error C2661: “QWidget::setGeometry”: 没有重载函数接受 3 个参数
+mainwindow.cpp(1806): error C2039: “communicatePitfallMatrix”: 不是“Communication”的成员
+  c:\users\lrg14\desktop\thuedc17-master\thedc17\mainwindow.h(30): note: 参见“Communication”的声明
+mainwindow.cpp(1808): error C2039: “communicatePitfallMatrix”: 不是“Communication”的成员
+  c:\users\lrg14\desktop\thuedc17-master\thedc17\mainwindow.h(30): note: 参见“Communication”的声明
+mainwindow.cpp(1809): error C2039: “communicatePitfallMatrix”: 不是“Communication”的成员
+  c:\users\lrg14\desktop\thuedc17-master\thedc17\mainwindow.h(30): note: 参见“Communication”的声明
+mainwindow.cpp(1811): error C2661: “QWidget::setGeometry”: 没有重载函数接受 3 个参数
+mainwindow.cpp(1819): error C2039: “playerUseProperty”: 不是“Communication”的成员
+  c:\users\lrg14\desktop\thuedc17-master\thedc17\mainwindow.h(30): note: 参见“Communication”的声明
+mainwindow.cpp(1822): error C2039: “playerUseProperty”: 不是“Communication”的成员
+  c:\users\lrg14\desktop\thuedc17-master\thedc17\mainwindow.h(30): note: 参见“Communication”的声明
+mainwindow.cpp(1823): error C2039: “playerUseProperty”: 不是“Communication”的成员
+  c:\users\lrg14\desktop\thuedc17-master\thedc17\mainwindow.h(30): note: 参见“Communication”的声明
+mainwindow.cpp(1825): error C2039: “playerUseProperty”: 不是“Communication”的成员
+  c:\users\lrg14\desktop\thuedc17-master\thedc17\mainwindow.h(30): note: 参见“Communication”的声明
+mainwindow.cpp(1828): error C2039: “playerUseProperty”: 不是“Communication”的成员
+  c:\users\lrg14\desktop\thuedc17-master\thedc17\mainwindow.h(30): note: 参见“Communication”的声明
+mainwindow.cpp(1829): error C2039: “playerUseProperty”: 不是“Communication”的成员
+  c:\users\lrg14\desktop\thuedc17-master\thedc17\mainwindow.h(30): note: 参见“Communication”的声明
+mainwindow.cpp(1832): error C2039: “ifAttact”: 不是“Communication”的成员
+  c:\users\lrg14\desktop\thuedc17-master\thedc17\mainwindow.h(30): note: 参见“Communication”的声明
+mainwindow.cpp(1835): error C2039: “ifAttact”: 不是“Communication”的成员
+  c:\users\lrg14\desktop\thuedc17-master\thedc17\mainwindow.h(30): note: 参见“Communication”的声明
+mainwindow.cpp(1842): error C2039: “attack”: 不是“Communication”的成员
+  c:\users\lrg14\desktop\thuedc17-master\thedc17\mainwindow.h(30): note: 参见“Communication”的声明
